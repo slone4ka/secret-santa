@@ -1,0 +1,5 @@
+emails*
+.name
+*.iws
+*.iml
+*.xml
